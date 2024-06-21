@@ -15,5 +15,8 @@ public class CalculatorApp{
          ad.setNum(5,4);
          Division d=new Division();
          d.Vijay();
+         Multiplication m=new Multiplication();
+        m.SetData(4, 100);
+
     }
 }

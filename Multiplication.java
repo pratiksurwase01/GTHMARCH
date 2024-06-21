@@ -1,6 +1,6 @@
-import java.util.*;
 
-class Mul{
+
+class Multiplication{
     private int a,b;
     public void SetData(int a,int b){
         this.a=a;
@@ -10,11 +10,3 @@ class Mul{
     }
 }
 
-public class Multiplication{
-    public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        
-        Mul m=new Mul();
-        m.SetData(5, 4);
-    }
-}
